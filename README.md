@@ -28,6 +28,13 @@ GSAA provides a robust and secure authentication system with the following key f
     <img src="docs/diagram/component.svg" crossorigin>
 </div>
 
+
+## Try from UI
+
+You can use the following repo for testing this project.
+
+https://github.com/jeferagudeloc/nuxt-vue-tailwind-login.git
+
 ## Usage
 
 Follow the steps below to run the GSAA application:
